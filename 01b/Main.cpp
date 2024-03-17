@@ -4,6 +4,8 @@
 
 using namespace std;
 
+
+
 int main(int argc, char** argv)
 {
 	unsigned int total = 0;
