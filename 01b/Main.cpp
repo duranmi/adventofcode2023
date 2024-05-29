@@ -4,7 +4,10 @@
 
 using namespace std;
 
+int get_number(string line)
+{
 
+}
 
 int main(int argc, char** argv)
 {
